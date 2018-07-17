@@ -12,7 +12,6 @@ function countdown(callback)  {
 }
 
 function multiplier(multiplierValue, value) {
-   debugger;
    return multiplierValue * value;
 }
 
